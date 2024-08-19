@@ -61,5 +61,11 @@ __3. Change cb2 - similar question var to "What are the ingredients to cook a ta
   ```
   - this determines the sensitivity of the cosine function when retrieving results from the vector db
 
+# Streamlit execution
+
+__1. Run `streamlit run sp_app.py` to run the streamlit app__
+
+__2. View the results of the LLM and the number of tokens, and how the cache was used in earlier steps, here in the streamlit app__
+
 __Notes:__
 - Guide [here](https://towardsdatascience.com/maximizing-ai-efficiency-in-production-with-caching-a-cost-efficient-performance-booster-9b8afd200efd)
