@@ -60,3 +60,6 @@ __3. Change cb2 - similar question var to "What are the ingredients to cook a ta
   ))
   ```
   - this determines the sensitivity of the cosine function when retrieving results from the vector db
+
+__Notes:__
+- Guide [here](https://towardsdatascience.com/maximizing-ai-efficiency-in-production-with-caching-a-cost-efficient-performance-booster-9b8afd200efd)
